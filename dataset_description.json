@@ -1,19 +1,19 @@
 {
-    "Name": "Longitudinal Mn(II)-enhanced MRI for following brain-wide responses to threat with and without early-life adversity",
+    "Name": "Reconfiguration of brain-wide neural activity after early life adversity. ",
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
-    "License": "CCO",
+    "License": "CC0",
     "Authors": [
-		"Taylor W. Uselman", 
-		"Russell E. Jacobs",
-		"Elaine L. Bearer"
+        "Taylor W. Uselman",
+        "Russell E. Jacobs",
+        "Elaine L. Bearer"
     ],
     "Acknowledgements": "The authors acknowledge the scientific and technical assistance provided by students, staff, and faculty at the Biological Imaging Center and Beckman Institute at California Institute of Technology, and the University of New Mexico",
     "HowToAcknowledge": "Please cite our papers Uselman, Barto et al. 2020 [URL](https://pubmed.ncbi.nlm.nih.gov/32474079/) and Uselman et al. 2025 [URL](XXX)",
     "Funding": [
-		"NIH NIH R01MH096093",
-		"Beckman Institute at Caltech",
-		"Harvey Family Endowment at UNM"
+        "NIH NIH R01MH096093",
+        "Beckman Institute at Caltech",
+        "Harvey Family Endowment at UNM"
     ],
     "EthicApprovals": [
         "All animal experimental protocols were approved by Institutional Animal Care and Use Committees at both California Institute of Technology (Caltech) and University of New Mexico."
