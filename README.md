@@ -1,4 +1,4 @@
-# Reconfiguration of brain-wide neural activity after early life adversity.
+# Raw MR data from 'Reconfiguration of brain-wide neural activity after early life adversity'.
 
 # Overview
 This dataset contains 3D RARE Mn(II)-enhanced MR images of 24 mice (12 C57BL/6J with standard rearing at JAX; 12 C57BL/6J with limited bedding and nesting at Caltech) from across a series of longitudinal conditions. Images were acquired on an 11.7T Bruker Avance DRX500 across variousscanning sessions/conditions: 1) before MnCl<sub>2</sub> injection (0.3 mmol/kg, IP) (pre-Mn); 4) ~23h after after injection and before an acute threat exposure (pre-TMT); 3) ~24-26h after injection and 30min to 2h after acute threat exposure (post-TMT); 4) 8 days after threat exposure and before a second MnCl<sub>2</sub> injection (0.3 mmol/kg, IP) (D9pre-Mn); and 5) ~24h after the second injection (D9-post). Please see [Uselman et al. (2025) _bioRxiv_](https://doi.org/10.1101/2023.09.10.55705) for experimental procedure and the associated [Bearer Lab GitHub Repo](https://github.com/bearerlab/memri-ela-vs-std) for code used in processing and analysis.
